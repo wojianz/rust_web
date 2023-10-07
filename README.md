@@ -1,2 +1,2 @@
 # rust_web
-test
+a rust project
